@@ -2,7 +2,7 @@
 Simple C# console application to find the table variables in the database repository
 
 ## Description
-Description {PL} http://pl.seequality.net/?p=4627&preview=true
+Description {PL} http://pl.seequality.net/table_variable_finder/
 
 Description {EN} Not avaliable yet. Will be added soon.
 
